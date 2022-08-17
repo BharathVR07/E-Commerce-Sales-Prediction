@@ -17,7 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/110616143/185018567-aa5a21d0-85b7-4ccb-bc1a-90809a62d6c0.png)
 
-• Hypothesis Testing.
+• Hypothesis Testing using statstical test (Z-test).
 
 ![image](https://user-images.githubusercontent.com/110616143/185018644-7753404c-d439-4bdc-90d5-ef16cdd4dace.png)
 
